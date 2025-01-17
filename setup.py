@@ -11,14 +11,14 @@ with open("requirements.txt") as fp:
     install_requires = fp.read()
 
 setup(
-    name="mmn_xai",
-    version="0.1.0",
+    name="transparent_xai",
+    version="1.0.0",
     description="From transparent models to local explanation",
     #url="https://github.com/explainingAI/uib-xai",
     author="Dr. Miquel Miró Nicolau, Dr. Gabriel Moyà Alcover, Dr. Antoni Jaume-i-Capó",
     author_email="miquel.miro@uib.cat",
     license="MIT",
-    packages=["transaprent XAI"],
+    packages=["transparent_XAI"],
     keywords=[
         "Explainable artificial intelligence",
     ],

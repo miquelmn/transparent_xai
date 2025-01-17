@@ -6,7 +6,7 @@ the algorithm to attribute the importance of each feature in the prediction in a
 Author: Miquel Miró Nicolau (UIB), 2025
 """
 
-__version__ = '0.1'
+__version__ = '1.0.0'
 __author__ = 'Miquel Miró Nicolau (UIB)'
 
 from sklearn.preprocessing import MinMaxScaler

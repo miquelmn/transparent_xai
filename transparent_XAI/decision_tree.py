@@ -6,7 +6,7 @@ algorithm to attribute the importance of each feature in the prediction in a loc
 Author: Miquel Miró Nicolau (UIB), 2025
 """
 
-__version__ = '1.0'
+__version__ = '1.0.0'
 __author__ = 'Miquel Miró Nicolau (UIB)'
 
 import numpy as np
